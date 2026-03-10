@@ -26,7 +26,7 @@ The main goal of DynaPad is to eradicate the need for physical touchpad buttons.
 
 - System Integration: Low-level hardware communication using evdev and uinput.
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 Language: Python 3
 
@@ -36,7 +36,7 @@ Input Handling: evdev (Event reading) & uinput (Virtual device emulation)
 
 System: systemd (Service management) & udev (Hardware permissions)
 
-📦 Installation
+## 📦 Installation
 
 DynaPad includes an automated installation script that handles the virtual environment, hardware permissions, and systemd service.
 

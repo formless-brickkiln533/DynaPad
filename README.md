@@ -1,6 +1,6 @@
 # DynaPad 🖱️
 
-DynaPad is a high-performance Linux background engine and configuration suite designed to modernize the touchpad experience. It replaces traditional hardware clicking with intelligent software-defined touch zones and adds advanced gesture controls.
+DynaPad is a high-performance Linux background engine and configuration suite designed to modernize the touchpad experience. It replaces traditional hardware clicking with intelligent software-defined touch zones and adds advanced gesture controls. Available for Linux Mint Cinnamon
 
 ## The Core Innovation: "Buttonless Clicking"
 

